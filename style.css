@@ -3,3 +3,42 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.invisivel1 {
+  position: fixed;      /* Posição fixa na tela */
+  top: 1418px;           /* Distância do topo */
+  left: 103px;          /* Distância da esquerda */
+  width: 110px;         /* Largura do botão */
+  height: 110px;         /* Altura do botão */
+  background-color: rgb(52, 165, 42);  /* Fundo transparente */
+  border: none;             /* Sem borda */
+  cursor: pointer;          /* Cursor de mãozinha */
+  z-index: 9999;            /* Por cima de tudo */
+border-radius: 100px;
+}
+
+.invisivel2 {
+  position: fixed;      /* Posição fixa na tela */
+  top: 1418px;           /* Distância do topo */
+  left: 262px;          /* Distância da esquerda */
+  width: 110px;         /* Largura do botão */
+  height: 110px;         /* Altura do botão */
+  background-color: brown;  /* Fundo transparente */
+  border: none;             /* Sem borda */
+  cursor: pointer;          /* Cursor de mãozinha */
+  z-index: 9999;            /* Por cima de tudo */
+  border-radius: 100px;
+}
+
+.invisivel3 {
+  position: fixed;      /* Posição fixa na tela */
+  top: 1418px;           /* Distância do topo */
+  left: 421px;          /* Distância da esquerda */
+  width: 110px;         /* Largura do botão */
+  height: 110px;       /* Altura do botão */
+  background-color: rgb(79, 42, 165);  /* Fundo transparente */
+  border: none;             /* Sem borda */
+  cursor: pointer;          /* Cursor de mãozinha */
+  z-index: 9999;            /* Por cima de tudo */
+border-radius: 100px;
+}
