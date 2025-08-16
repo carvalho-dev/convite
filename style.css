@@ -1,5 +1,5 @@
 body {
-    background-image: url(image/bg-convite.png);
+    background-image: url(image/bg-convite2.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -42,3 +42,4 @@ border-radius: 100px;
   z-index: 9999;            /* Por cima de tudo */
 border-radius: 100px;
 }
+
